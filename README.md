@@ -1,4 +1,4 @@
-📦 Sistema de Gestión de Productos (Preentrega)Este es un proyecto básico de consola desarrollado en Java usando IntelliJ IDEA, que simula un sistema rudimentario de gestión de productos con un menú interactivo.
+📦 Sistema de Gestión de Productos (Preentrega). Este es un proyecto básico de consola desarrollado en Java usando IntelliJ IDEA, que simula un sistema rudimentario de gestión de productos con un menú interactivo.
 
 🎯 Características: El programa permite realizar las siguientes operaciones a través de un menú de consola:Agregar Producto: Permite ingresar los detalles de un nuevo producto (nombre, precio, stock) y lo añade a la lista. La ID del producto es autogenerada.Listar Productos: Muestra todos los productos actualmente registrados en el sistema.Buscar Producto: Permite buscar y mostrar un producto específico ingresando su ID.Actualizar Producto: Permite modificar los datos (nombre, precio, stock) de un producto existente, buscándolo por su ID.Gestión de Excepciones: Incluye manejo básico de excepciones para la entrada de datos (números válidos, números positivos, opciones de menú).
 
@@ -8,7 +8,8 @@
 
 🚀 Cómo EjecutarClonar/Descargar el repositorio.Abrir el proyecto en IntelliJ IDEA.Asegurarse de tener un JDK de Java configurado.Ejecutar la clase principal: com.techlab.MainPreentrega.El programa se ejecutará en la consola, mostrando el menú de opciones para interactuar.
 
-✏️ Uso del ProgramaAl iniciar, se mostrará el siguiente menú:1) Agregar producto.
+✏️ Uso del ProgramaAl iniciar, se mostrará el siguiente menú:
+1) Agregar producto.
 2) Listar productos.
 3) Buscar producto.
 4) Actualizar producto.
