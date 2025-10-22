@@ -6,7 +6,7 @@
 
 📁 Estructura del Proyecto: El código está organizado en varios paquetes para separar las responsabilidades (Modelo, Servicio y Utilidades):PaqueteClases PrincipalesDescripcióncom.techlabMainPreentrega, UtilidadContiene el punto de entrada (main) y métodos de utilidad para la interacción con el usuario (manejo de Scanner, validaciones de entrada, formato).com.techlab.productosProductoLa clase Modelo que representa un producto, incluyendo su ID autoincremental, nombre, precio y stock.com.techlab.servicioProductoServiceLa clase Servicio que contiene la lógica de negocio para gestionar la lista de productos (agregar, listar, buscar, actualizar).com.techlab.excepcionesNumeroInvalidoException, ...Contiene clases para excepciones personalizadas usadas para la validación de datos.
 
-🚀 Cómo EjecutarClonar/Descargar el repositorio.Abrir el proyecto en IntelliJ IDEA.Asegurarse de tener un JDK de Java configurado.Ejecutar la clase principal: com.techlab.MainPreentrega.El programa se ejecutará en la consola, mostrando el menú de opciones para interactuar.
+🚀 Cómo EjecutarClonar/Descargar el repositorio. Abrir el proyecto en IntelliJ IDEA.Asegurarse de tener un JDK de Java configurado.Ejecutar la clase principal: com.techlab.MainPreentrega.El programa se ejecutará en la consola, mostrando el menú de opciones para interactuar.
 
 ✏️ Uso del ProgramaAl iniciar, se mostrará el siguiente menú:
 1) Agregar producto.
