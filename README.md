@@ -8,7 +8,7 @@
 
 🚀 Cómo EjecutarClonar/Descargar el repositorio. Abrir el proyecto en IntelliJ IDEA.Asegurarse de tener un JDK de Java configurado.Ejecutar la clase principal: com.techlab.MainPreentrega.El programa se ejecutará en la consola, mostrando el menú de opciones para interactuar.
 
-✏️ Uso del ProgramaAl iniciar, se mostrará el siguiente menú:
+✏️ Uso del Programa Al iniciar, se mostrará el siguiente menú:
 1) Agregar producto.
 2) Listar productos.
 3) Buscar producto.
